@@ -3,7 +3,7 @@ Unofficial Implementation of SwitchTab: Switched Autoencoders Are Effective Tabu
 
 Link to paper: https://arxiv.org/abs/2401.02013
 ---
-All credits to author: 
+All credits to authors: 
 ```
 Jing Wu, Suiyao Chen, Qi Zhao, Renat Sergazinov, Chen Li, Shengjie Liu, Chongchao Zhao, Tianpei Xie, Hanqing Guo, Cheng Ji, Daniel Cociorva, Hakan Brunzell
 ```
