@@ -2,7 +2,7 @@ import unittest
 import torch
 from torch import nn
 from torch.utils.data import DataLoader, TensorDataset
-from switchtab import Encoder, Projector, Decoder, Predictor, feature_corruption
+from utils import Encoder, Projector, Decoder, Predictor, feature_corruption
 
 class TestSwitchTabComponents(unittest.TestCase):
     def setUp(self):
